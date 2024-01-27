@@ -21,19 +21,19 @@ class Program
     }
     static void option2()
     {
-        Console.WriteLine("2. Display")
+        Console.WriteLine("2. Display");
     }
     static void option3()
     {
-        Console.WriteLine("3. Load")
+        Console.WriteLine("3. Load");
     }
     static void option4()
     {
-        Console.WriteLine("4. Save")
+        Console.WriteLine("4. Save");
     }
     static void option5()
     {
-        Console.WriteLine("5. Quite")
+        Console.WriteLine("5. Quite");
     }
     
 }
