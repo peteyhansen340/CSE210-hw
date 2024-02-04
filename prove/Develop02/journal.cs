@@ -7,7 +7,7 @@ public class Journal
     public List<Entry> _entries = new List<Entry>();
 
     public Journal()
-    {  // Constructor
+    {  
     }
 
     public void LoadFromFile(string fileName)

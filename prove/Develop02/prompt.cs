@@ -7,14 +7,13 @@ public class PromptGenerator
 	
 	
 	public PromptGenerator()
-	{  // Constructor
+	{  
 	}
 	
 	public void StorePrompts()
 	{
-		// Source out Prompt and save it
+		// Prompts
 
-		// The constant prompts to add
 		string prompt1 = "Who was the most interesting person I interacted with today?";
 		string prompt2 = "What was the best part of my day?";
 		string prompt3 = "How did I see the hand of the Lord in my life today?";
