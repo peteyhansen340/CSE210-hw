@@ -32,7 +32,7 @@ class Program
 
 
         //order 2
-        Address address2 = new Address ("3342 Fancy Dr.","Apline", "Utah", "USA");
+        Address address2 = new Address ("3342 Fancy Dr.","Mexico City", "Mexico", "Mexico");
         Customer customer2 = new Customer("Joao Garcia", address2);
 
         double order2ShippingCost = customer2.GetShippingCost();
